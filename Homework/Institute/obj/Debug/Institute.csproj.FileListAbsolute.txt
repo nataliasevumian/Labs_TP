@@ -1,0 +1,6 @@
+D:\C#\Homework\Institute\bin\Debug\Institute.dll
+D:\C#\Homework\Institute\bin\Debug\Institute.pdb
+D:\C#\Homework\Institute\obj\Debug\Institute.csprojAssemblyReference.cache
+D:\C#\Homework\Institute\obj\Debug\Institute.csproj.CoreCompileInputs.cache
+D:\C#\Homework\Institute\obj\Debug\Institute.dll
+D:\C#\Homework\Institute\obj\Debug\Institute.pdb
