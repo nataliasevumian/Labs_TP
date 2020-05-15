@@ -1,0 +1,6 @@
+D:\C#\Lab_09\Bibl\bin\Debug\Bibl.dll
+D:\C#\Lab_09\Bibl\bin\Debug\Bibl.pdb
+D:\C#\Lab_09\Bibl\obj\Debug\Bibl.csprojAssemblyReference.cache
+D:\C#\Lab_09\Bibl\obj\Debug\Bibl.csproj.CoreCompileInputs.cache
+D:\C#\Lab_09\Bibl\obj\Debug\Bibl.dll
+D:\C#\Lab_09\Bibl\obj\Debug\Bibl.pdb
