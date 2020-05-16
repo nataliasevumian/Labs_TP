@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Практическая_4.Game">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <AssociationLine Name="gamer" Type="Практическая_4.Gamer">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.31" Y="0.043" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAADAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="gamer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Практическая_4.Gamer">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAIAAAAAAAAQAAAAACAAAAABAAAAAAAA=</HashCode>
+      <FileName>Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практическая_4.Rand">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Rand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практическая_4.Program">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
